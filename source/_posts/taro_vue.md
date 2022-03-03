@@ -2,6 +2,7 @@
 title: taro-vue小程序开发
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/taro_vue.assets/image-20210325135229725.png
 
 ---
 

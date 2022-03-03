@@ -1,6 +1,7 @@
 title: Taro开发微信小程序(Taro、React、TypeScript)
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/vant_wechat.assets/image-20210316174546799.png
 
 ---
 

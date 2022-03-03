@@ -1,6 +1,7 @@
 title: 一个WebApp项目(Vue、Vant)
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/mzqh5.assets/image-20210316153447696.png
 
 ---
 

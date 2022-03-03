@@ -1,6 +1,7 @@
 title: win10_linux_wsl子系统开机启动ssh服务
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/assets/1994177-20200717173138560-522656065.png
 
 ---
 

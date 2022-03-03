@@ -2,6 +2,7 @@
 title: SQL翻译项目(React、Antd、TypeScript)
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/sql_translate.assets/image-20210316161752758.png
 
 ---
 

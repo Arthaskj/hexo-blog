@@ -2,6 +2,7 @@
 title: SVN仓库无损迁移到GIT仓库
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/svn2git.assets/image-20210427112121754.png
 
 ---
 

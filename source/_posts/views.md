@@ -1,6 +1,7 @@
 title: 浏览量统计接口
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/views.assets/image-20210317161718429.png
 
 ---
 

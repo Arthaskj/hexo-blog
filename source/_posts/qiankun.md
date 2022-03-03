@@ -1,6 +1,7 @@
 title: qiankun微前端学习
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/qiankun.assets/image-20210318161647429.png
 
 ---
 

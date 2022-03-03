@@ -2,6 +2,7 @@
 title: webComponent开发
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/webComponent.assets/image-20210323102419990.png
 
 ---
 

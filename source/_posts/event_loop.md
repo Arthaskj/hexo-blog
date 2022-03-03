@@ -1,6 +1,7 @@
 title: 事件循环
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/event_loop.assets/image-20210428141941046.png
 
 ---
 

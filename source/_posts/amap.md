@@ -1,6 +1,7 @@
 title: 项目中使用高德地图组件
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/amap.assets/image-20210527093803096.png
 
 ---
 

@@ -1,6 +1,7 @@
 title: NPM发布自己的包
 category: 技能
 date: <文章日期> [YYYY-MM-DD]
+index_img: /images/npm.assets/image-20210428090528794.png
 
 ---
 
