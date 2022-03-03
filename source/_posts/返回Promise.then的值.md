@@ -1,6 +1,6 @@
 title: 返回Promise.then的值
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2020-10-22
 
 ---
 
