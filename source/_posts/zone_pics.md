@@ -1,7 +1,7 @@
 title: 关于如何批量导出扣扣相册中的原图
 category: 技能
 tags: QQ,腾讯,qq空间
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-09-23
 index_img: /images/zone_pics.assets/640-163235964578812
 
 ---

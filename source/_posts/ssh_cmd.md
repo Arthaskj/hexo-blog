@@ -1,7 +1,7 @@
 
 title: SSH、SCP执行远程服务器命令
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-05-12
 
 ---
 

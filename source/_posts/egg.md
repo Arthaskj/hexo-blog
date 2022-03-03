@@ -1,4 +1,13 @@
+title: Egg实现接口服务
+category: 技能
+date: 2021-03-16
+index_img: /images/egg.assets/image-20210316143600549.png
 
+---
+
+之前使用Express写过一个[接口服务](src/md/node/express)，因为基本上很多流程都需要自己实现，用起来很是麻烦，了解到Eggjs之后打算用Eggjs重写一个接口服务，果然是折腾不死。
+
+<!--more-->
 
 ## Egg实现接口服务
 
@@ -6,9 +15,9 @@
 
 ### 一、目录结构
 
-![image-20210316143600549](egg.assets/image-20210316143600549.png)
+![image-20210316143600549](/images/egg.assets/image-20210316143600549.png)
 
-![image-20210316143634889](egg.assets/image-20210316143634889.png)
+![image-20210316143634889](/images/egg.assets/image-20210316143634889.png)
 
 ### 二、路由处理、Config配置
 
@@ -453,4 +462,4 @@ module.exports = (option, app) => {
 
 ```
 
-![image-20210316145110022](egg.assets/image-20210316145110022.png)
+![image-20210316145110022](/images/egg.assets/image-20210316145110022.png)

@@ -1,6 +1,6 @@
 title: windows系统下解决bash中文乱码问题
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2019-03-17
 
 ---
 

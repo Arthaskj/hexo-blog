@@ -1,3 +1,14 @@
+title: 验证微信小程序获取openid
+category: 技能
+date: 2021-03-16
+index_img: 
+
+---
+
+验证微信小程序获取openid
+
+<!--more-->
+
 ## 验证微信小程序获取openid
 
 ```js

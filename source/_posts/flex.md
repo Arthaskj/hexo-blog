@@ -1,6 +1,6 @@
 title: Flex布局(转)
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-04-13
 index_img: /images/flex.assets/5a7d00514af1e464221c677c15e8e990.png
 
 ---

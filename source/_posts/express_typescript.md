@@ -1,10 +1,21 @@
+title: 使用TypeScript重写接口服务
+category: 技能
+date: 2021-03-16
+index_img: /images/express_typescript.assets/image-20210316142658995.png
+
+---
+
+之前使用node写过一个接口服务，用起来还可以，最近突然对TypeScript感兴趣，于是又开始了折腾。。。
+
+<!--more-->
+
 ## 使用TypeScript重写接口服务
 
 > 之前使用node写过一个接口服务，用起来还可以，最近突然对TypeScript感兴趣，于是又开始了折腾。。。
 
 ### 一、目录结构
 
-![image-20210316142658995](express_typescript.assets/image-20210316142658995.png)
+![image-20210316142658995](/images/express_typescript.assets/image-20210316142658995.png)
 
 > 由于刚开始学TypeScript，工作又处于缓慢状态，并没有进行深度改造，完全是个半成品。。。
 >

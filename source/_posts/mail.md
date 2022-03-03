@@ -1,3 +1,13 @@
+title: Node实现邮件发送
+category: 技能
+date: 2021-03-16
+index_img: /images/mail.assets/image-20210316150340002.png
+
+---
+
+这里需要注意的就是邮箱需要开启POP3服务，否则无法发送邮件，开通POP3服务时需要记录下你的授权码，发送邮件需要你的授权码，而不是你的邮箱密码！！！切记！！！
+
+<!--more-->
 ## Node实现邮件发送
 
 ### 一、配置文件
@@ -82,6 +92,6 @@ module.exports = sendMail;
 sendMail([ 'arthaskj@163.com' ], 'EggJs异常提醒', '这是邮件啊！！！');
 ```
 
-![image-20210316150340002](mail.assets/image-20210316150340002.png)
+![image-20210316150340002](/images/mail.assets/image-20210316150340002.png)
 
-![image-20210316150347835](mail.assets/image-20210316150347835.png)
+![image-20210316150347835](/images/mail.assets/image-20210316150347835.png)

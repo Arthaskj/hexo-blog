@@ -1,7 +1,7 @@
 
 title: Egg搭配Redis进行验证码校验
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-04-20
 index_img: /images/redis_code.assets/image-20210420161704441.png
 
 ---

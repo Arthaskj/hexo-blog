@@ -1,3 +1,15 @@
+title: 关于如何批量导出扣扣相册中的原图
+category: 技能
+tags: Gitee,ci,自动化部署
+date: 2019-03-17
+index_img: /images/assets/image-20210224103102204.png
+
+---
+
+关于如何批量导出扣扣相册中的原图
+
+<!--more-->
+
 ## 利用Gitee的webhook搭配自己的服务器实现自动化部署
 
 

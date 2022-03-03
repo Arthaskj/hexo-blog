@@ -1,6 +1,6 @@
 title: CentOS7防火墙操作
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-05-14
 
 ---
 

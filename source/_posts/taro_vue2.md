@@ -1,7 +1,7 @@
 
 title: ## taro-vue小程序开发（二）
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-04-08
 
 ---
 

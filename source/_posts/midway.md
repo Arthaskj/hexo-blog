@@ -1,3 +1,14 @@
+title: Midway实现接口服务
+category: 技能
+date: 2021-03-16
+index_img: /images/midway.assets/image-20210316150833238.png
+
+---
+
+使用过Egg之后感觉跟java之类的语言还是有差异，其中最麻烦的是一个新的接口要给他配路由，然后还的区分Get，Post。这让我想起了TS的注解，于是百度了一下发现还真有Egg的typescript升级版本`MidWay`.
+
+<!--more-->
+
 ## Midway实现接口服务
 
 > 使用过Egg之后感觉跟java之类的语言还是有差异，其中最麻烦的是一个新的接口要给他配路由，然后还的区分Get，Post。这让我想起了TS的注解，于是百度了一下发现还真有Egg的typescript升级版本`MidWay`.
@@ -8,9 +19,9 @@
 
 ### 一、目录结构
 
-![image-20210316150833238](midway.assets/image-20210316150833238.png)
+![image-20210316150833238](/images/midway.assets/image-20210316150833238.png)
 
-![image-20210316151208482](midway.assets/image-20210316151208482.png)
+![image-20210316151208482](/images/midway.assets/image-20210316151208482.png)
 
 ### 二、配置文件
 

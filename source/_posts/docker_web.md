@@ -1,6 +1,6 @@
 title: 使用Docker部署前端项目
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-04-09
 index_img: /images/docker_web.assets/image-20210409172519539.png
 
 ---

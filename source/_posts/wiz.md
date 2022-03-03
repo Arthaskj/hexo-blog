@@ -1,6 +1,6 @@
 title: 为知笔记私有化部署
 category: 笔记软件
-date: <文章日期> [YYYY-MM-DD]
+date: 2022-02-28
 
 ---
 

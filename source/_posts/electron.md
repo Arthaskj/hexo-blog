@@ -1,6 +1,6 @@
 title: electron开发
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-03-18
 index_img: /images/electron.assets/image-20210318105836345.png
 
 ---

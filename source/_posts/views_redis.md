@@ -1,7 +1,7 @@
 
 title: 开发浏览量统计接口-使用redis替换mongodb
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-04-20
 index_img: /images/views_redis.assets/image-20210420143821708.png
 
 ---

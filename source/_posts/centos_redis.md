@@ -1,6 +1,6 @@
 title: CentOS7安装Redis
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+date: 2021-04-20
 index_img: /images/centos_redis.assets/image-20210420103232390.png
 
 ---
