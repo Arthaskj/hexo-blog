@@ -1,6 +1,6 @@
 <footer class="text-center mt-5 py-3">
   <div class="footer-content">
-    <%- theme.footer.content %>
+    <%- theme.footer.content.replace('{date}',new Date().getFullYear()) %>
   </div>
   <%- partial('_partial/statistics.ejs') %>
   <%- partial('_partial/beian.ejs') %>
