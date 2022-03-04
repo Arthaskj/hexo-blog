@@ -1,5 +1,6 @@
 title: EggJs操作Redis
 category: 技能
+tags: eggjs,redis
 date: 2021-04-20
 
 ---

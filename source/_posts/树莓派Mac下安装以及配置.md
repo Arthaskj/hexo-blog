@@ -1,6 +1,8 @@
 title: 树莓派Mac下安装以及配置
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+tags: macos,树莓派
+date: 2020-10-22
+index_img: /images/assets/pi/14360535-90030caaa119f1bc.png
 
 ---
 

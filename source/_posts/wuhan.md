@@ -1,5 +1,6 @@
 title: 2019年3月30日 武汉旅行
-category: 技能
+category: 旅行
+tags: 武汉,摄影
 date: 2019-03-30
 index_img: /images/assets/1BFE3CA83DB979A87B78895F7C4F2EAF.JPG
 

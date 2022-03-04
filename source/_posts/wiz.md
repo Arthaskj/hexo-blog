@@ -1,5 +1,6 @@
 title: 为知笔记私有化部署
 category: 笔记软件
+tags: 为知笔记
 date: 2022-02-28
 
 ---

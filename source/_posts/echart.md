@@ -1,5 +1,6 @@
 title: Echart图表生成
 category: 技能
+tags: echart
 date: 2019-08-14
 index_img: 
 

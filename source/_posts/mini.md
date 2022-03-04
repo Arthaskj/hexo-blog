@@ -1,5 +1,6 @@
 title: 验证微信小程序获取openid
 category: 技能
+tags: 微信,小程序
 date: 2021-03-16
 index_img: 
 

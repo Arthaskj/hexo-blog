@@ -1,3 +1,14 @@
+title: VS Code 代码块
+category: 技能
+date: 2019-08-14
+index_img: /images/assets/vscode/snippet.png
+
+---
+
+VS Code 代码块
+
+<!--more-->
+
 <!--
  * @Author: 柯军
  * @Date: 2019-08-14 18:29:41

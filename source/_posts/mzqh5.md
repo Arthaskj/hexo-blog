@@ -1,5 +1,6 @@
 title: 一个WebApp项目(Vue、Vant)
 category: 技能
+tags: vue,vant,h5,webapp
 date: 2021-04-09
 index_img: /images/mzqh5.assets/image-20210316153447696.png
 

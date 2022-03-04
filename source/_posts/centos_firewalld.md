@@ -1,5 +1,6 @@
 title: CentOS7防火墙操作
 category: 技能
+tags: centos,防火墙
 date: 2021-05-14
 
 ---

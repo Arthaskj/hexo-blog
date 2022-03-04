@@ -1,5 +1,6 @@
 title: Nginx配置
 category: 技能
+tags: nginx
 date: <文章日期> [YYYY-MM-DD]
 
 ---

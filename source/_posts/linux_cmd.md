@@ -1,5 +1,6 @@
 title: Linux硬件命令查询
 category: 技能
+tags: linux
 date: 2021-05-07
 
 ---

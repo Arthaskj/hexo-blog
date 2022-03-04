@@ -1,5 +1,6 @@
 title: VUE学习
 category: 技能
+tags: vue
 date: 2019-08-14
 index_img: /images/assets/1741752219-59c9b774a4ccf_articlex.png
 

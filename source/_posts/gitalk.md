@@ -1,5 +1,6 @@
 title: Gitalk
 category: 技能
+tags: gitalk
 date: 2021-04-08
 index_img: /images/gitalk.assets/image-20210408110354525.png
 

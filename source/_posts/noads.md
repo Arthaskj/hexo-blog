@@ -1,6 +1,7 @@
 
 title: 通过脚本给网页去广告
 category: 技能
+tags: js,浏览器,脚本
 date: 2019-08-14
 index_img: https://arthaskj.github.io/Photo/20190218/3.png
 

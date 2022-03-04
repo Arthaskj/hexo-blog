@@ -1,5 +1,6 @@
 title: 使用TypeScript重写接口服务
 category: 技能
+tags: nodejs,typescript
 date: 2021-03-16
 index_img: /images/express_typescript.assets/image-20210316142658995.png
 

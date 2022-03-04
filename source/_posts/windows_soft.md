@@ -1,6 +1,7 @@
 
 title: Windows下好用软件推荐
 category: 软件
+tags: windows,soft
 date: 2021-05-06
 index_img: /images/windows_soft.assets/image-20210506162106156.png
 

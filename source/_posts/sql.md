@@ -1,5 +1,6 @@
 title: SQL查询数据命令
 category: 技能
+tags: sql
 date: 2019-08-14
 index_img: 
 

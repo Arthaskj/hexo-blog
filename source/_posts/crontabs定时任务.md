@@ -1,6 +1,7 @@
 title: centos上设置定时任务
 category: 技能
-date: <文章日期> [YYYY-MM-DD]
+tags: centos,crontabs
+date: 2020-10-22
 index_img: 
 
 ---

@@ -1,6 +1,7 @@
 title: 右键菜单
 category: 技能
 date: 2020-10-22
+tags: vue,右键操作,菜单
 index_img: 
 
 ---

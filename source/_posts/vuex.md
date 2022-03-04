@@ -1,6 +1,7 @@
 title: Vuex是什么
 category: 知识点
 date: 2021-03-30
+tags: vue,状态管理
 
 ---
 

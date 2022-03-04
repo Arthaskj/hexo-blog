@@ -1,5 +1,6 @@
 title: 开启win10下Ubuntu子系统的SSH服务
 category: 技能
+tags: windows,ubuntu,ssh,wsl
 date: <文章日期> [YYYY-MM-DD]
 index_img: /images/assets/70-20200730114753599.png
 

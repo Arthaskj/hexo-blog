@@ -1,6 +1,7 @@
 
 title: ## taro-vue小程序开发（二）
 category: 技能
+tags: taro,vue,微信,wechat,小程序
 date: 2021-04-08
 
 ---

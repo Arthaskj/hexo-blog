@@ -1,5 +1,6 @@
 title: MySQL
 category: 技能
+tags: mysql
 date: 2021-09-24
 
 ---

@@ -1,3 +1,15 @@
+title: CentOS 7.x开启防火墙端口
+category: 技能
+tags: centos,防火墙
+date: 2019-08-14
+index_img: 
+
+---
+
+CentOS 7.x开启防火墙端口
+
+<!--more-->
+
 <!--
  * @Author: 柯军
  * @Date: 2019-08-14 18:56:04

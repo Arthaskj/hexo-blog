@@ -1,5 +1,6 @@
 title: 返回Promise.then的值
 category: 技能
+tags: promise
 date: 2020-10-22
 
 ---

@@ -1,5 +1,5 @@
 title: 2019年3月17日 19:21 宏村旅游
-category: 技能
+category: 旅游
 date: 2019-03-17
 index_img: /images/assets/travel/hscp/hscp.jpg
 

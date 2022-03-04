@@ -1,5 +1,6 @@
 title: Nginx搭建图片服务器
 category: 技能
+tags: nginx,oss
 date: 2021-04-09
 index_img: /images/nginx_images.assets/image-20210409103128411.png
 

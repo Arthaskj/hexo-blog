@@ -1,5 +1,6 @@
 title: Taro开发微信小程序(Taro、React、TypeScript)
 category: 技能
+tags: vant,wechat,微信,小程序
 date: 2021-03-16
 index_img: /images/vant_wechat.assets/image-20210316174546799.png
 

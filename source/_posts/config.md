@@ -1,5 +1,6 @@
 title: 模块化配置多个Nginx站点
 category: 技能
+tags: nginx,模块化
 date: 2021-04-07
 index_img: /images/egg.assets/image-20210316143600549.png
 

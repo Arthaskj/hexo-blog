@@ -1,5 +1,6 @@
 title: GitHub怎么用？？？
 category: 技能
+tags: github
 date: 2019-08-14
 index_img: /images/githubWithMD.assets/1.png
 
