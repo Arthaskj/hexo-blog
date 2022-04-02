@@ -1,6 +1,8 @@
 title: .Net Core MVC环境安装开发
 category: 技能
-tags: dotNet,mvc
+tags: 
+    - dotNet
+    - mvc
 date: 2020-10-22
 index_img: /images/dotnetCore.assets/8704278-bac0af6d40475408.png
 

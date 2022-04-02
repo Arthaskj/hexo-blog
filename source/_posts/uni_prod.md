@@ -1,6 +1,9 @@
 title: Uni开发尝试(Vue、Uview-ui)
 category: 技能
-tags: uni,vue,uview-ui
+tags: 
+  - uni
+  - vue
+  - view-design
 date: 2021-03-16
 index_img: /images/uni_prod.assets/image-20210316180322835.png
 

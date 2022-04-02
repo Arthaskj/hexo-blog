@@ -1,6 +1,8 @@
 title: Eggjs开发
 category: 技能
-tags: nodejs,eggjs
+tags: 
+  - nodejs
+  - eggjs
 date: 2019-08-14
 index_img: 
 

@@ -1,7 +1,10 @@
 
 title: SSH、SCP执行远程服务器命令
 category: 技能
-tags: ssh,scp,服务器命令
+tags: 
+  - ssh
+  - scp
+  - 服务器命令
 date: 2021-05-12
 
 ---

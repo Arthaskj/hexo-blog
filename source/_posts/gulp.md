@@ -1,6 +1,8 @@
 title: 针对Jquery老项目使用gulp进行打包
 category: 技能
-tags: gulp,jquery
+tags: 
+  - gulp
+  - jquery
 date: 2021-03-19
 index_img: /images/gulp.assets/image-20210319153457812.png
 

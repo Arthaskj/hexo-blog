@@ -1,7 +1,13 @@
 
 title: SQL翻译项目(React、Antd、TypeScript)
 category: 技能
-tags: sql,antd,react,typescript,翻译,黑客马拉松
+tags: 
+	- sql
+	- antd
+	- react
+	- typescript
+	- 翻译
+	- 黑客马拉松
 date: 2021-03-16
 index_img: /images/sql_translate.assets/image-20210316161752758.png
 

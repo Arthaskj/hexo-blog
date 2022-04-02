@@ -1,6 +1,8 @@
 title: 快速启动器
 category: 技能
-tags: 启动器,windows
+tags: 
+  - 启动器
+  - windows
 date: 2019-08-14
 index_img: /images/fastopen.assets/g1.gif
 

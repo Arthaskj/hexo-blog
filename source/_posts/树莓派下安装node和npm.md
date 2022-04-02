@@ -1,6 +1,9 @@
 title: 树莓派下安装node和npm
 category: 技能
-tags: 树莓派,nodejs,npm
+tags: 
+  - 树莓派
+  - nodejs
+  - npm
 date: 2020-10-22
 
 ---

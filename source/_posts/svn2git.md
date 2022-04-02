@@ -1,7 +1,9 @@
 
 title: SVN仓库无损迁移到GIT仓库
 category: 技能
-tags: git,svn
+tags: 
+  - git
+  - svn
 date: 2021-04-27
 index_img: /images/svn2git.assets/image-20210427112121754.png
 

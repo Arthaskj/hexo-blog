@@ -1,6 +1,9 @@
 title: 3、树莓派编程
 category: 技能
-tags: 树莓派,GPIO,python
+tags: 
+	- 树莓派
+	- GPIO
+	- python
 date: 2019-08-14
 index_img: 
 

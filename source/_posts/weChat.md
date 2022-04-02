@@ -1,6 +1,8 @@
 title: 验证微信公众号
 category: 技能
-tags: 微信,公众号
+tags: 
+  - 微信
+  - 公众号
 date: 2021-03-16
 index_img: 
 

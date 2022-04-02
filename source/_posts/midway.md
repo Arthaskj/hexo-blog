@@ -1,6 +1,8 @@
 title: Midway实现接口服务
 category: 技能
-tags: midway,接口
+tags: 
+  - midway
+  - 接口
 date: 2021-03-16
 index_img: /images/midway.assets/image-20210316150833238.png
 

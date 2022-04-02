@@ -1,6 +1,8 @@
 title: windows系统下解决bash中文乱码问题
 category: 技能
-tags: windows,bash
+tags: 
+   - windows
+   - bash
 date: 2019-03-17
 
 ---

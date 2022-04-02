@@ -1,6 +1,8 @@
 title: Poker键盘加背光灯
 category: 技能
-tags: poker,键盘
+tags: 
+  - poker
+  - 键盘
 date: 2019-08-14
 index_img: /images/keyboard.assets/12105.jpg
 

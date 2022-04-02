@@ -1,6 +1,8 @@
 title: 创建GitLab
 category: 技能
-tags: git,gitlab
+tags: 
+  - git
+  - gitlab
 date: 2019-08-14
 index_img: 
 

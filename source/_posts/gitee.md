@@ -1,6 +1,9 @@
 title: 利用Gitee的webhook搭配自己的服务器实现自动化部署
 category: 技能
-tags: Gitee,webhook,ci
+tags: 
+  - Gitee
+  - webhook
+  - ci
 date: 2019-03-17
 index_img: /images/assets/image-20210224103102204.png
 

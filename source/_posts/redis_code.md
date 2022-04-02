@@ -1,7 +1,10 @@
 
 title: Egg搭配Redis进行验证码校验
 category: 技能
-tags: eggjs,redis,验证码
+tags: 
+  - eggjs
+  - redis
+  - 验证码
 date: 2021-04-20
 index_img: /images/redis_code.assets/image-20210420161704441.png
 

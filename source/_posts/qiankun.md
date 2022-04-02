@@ -1,6 +1,8 @@
 title: qiankun微前端学习
 category: 技能
-tags: qiankun,微前端
+tags: 
+  - qiankun
+  - 微前端
 date: 2021-03-18
 index_img: /images/qiankun.assets/image-20210318161647429.png
 

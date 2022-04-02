@@ -1,6 +1,9 @@
 title: 封装Element的Table和Pagination
 category: 技能
-tags: element,table,pagination
+tags: 
+	- element
+	- table
+	- pagination
 date: 2021-04-08
 index_img: /images/gridpage.assets/image-20210408155516838.png
 

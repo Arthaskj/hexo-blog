@@ -1,7 +1,11 @@
 
 title: taro-vue小程序开发
 category: 技能
-tags: vue,taro,小程序,微信
+tags: 
+  - vue
+  - taro
+  - 小程序
+  - 微信
 date: 2021-03-25
 index_img: /images/taro_vue.assets/image-20210325135229725.png
 

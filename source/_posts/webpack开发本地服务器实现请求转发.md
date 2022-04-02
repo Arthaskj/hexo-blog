@@ -1,6 +1,8 @@
 title: webpack开发本地服务器实现请求转发
 category: 技能
-tags: webpack,proxy
+tags: 
+  - webpack
+  - proxy
 date: 2019-08-14
 index_img: /images/assets/1577061325104.png
 

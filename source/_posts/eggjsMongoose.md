@@ -1,6 +1,9 @@
 title: Eggjs数据库操作
 category: 技能
-tags: eggjs,nodejs,数据库
+tags: 
+  - eggjs
+  - nodejs
+  - 数据库
 date: 2019-08-14
 index_img: 
 

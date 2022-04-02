@@ -1,6 +1,8 @@
 title: Docsify博客系统
 category: 技能
-tags: docsify,博客
+tags: 
+  - docsify
+  - 博客
 date: 2021-03-18
 
 ---

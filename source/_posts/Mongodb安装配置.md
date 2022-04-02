@@ -1,7 +1,9 @@
 
 title: Mongodb安装配置
 category: 技能
-tags: centos,mongodb
+tags: 
+  - centos
+  - mongodb
 date: 2019-08-14
 index_img: 
 

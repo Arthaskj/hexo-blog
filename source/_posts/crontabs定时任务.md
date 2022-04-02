@@ -1,6 +1,8 @@
 title: centos上设置定时任务
 category: 技能
-tags: centos,crontabs
+tags: 
+  - centos
+  - crontabs
 date: 2020-10-22
 index_img: 
 

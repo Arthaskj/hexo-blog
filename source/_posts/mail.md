@@ -1,6 +1,8 @@
 title: Node实现邮件发送
 category: 技能
-tags: nodejs,邮件
+tags: 
+  - nodejs
+  - 邮件
 date: 2021-03-16
 index_img: /images/mail.assets/image-20210316150340002.png
 
