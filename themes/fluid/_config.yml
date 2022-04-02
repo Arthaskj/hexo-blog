@@ -510,7 +510,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: /img/20220304103525.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -804,7 +804,7 @@ cusdis:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: /img/default.png
+  banner_img: /img/20220304103525.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -816,7 +816,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/20220304103525.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -846,7 +846,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/20220304103525.jpg
   banner_img_height: 80
   banner_mask_alpha: 0.3
   subtitle:
@@ -864,7 +864,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/20220304103525.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
@@ -887,7 +887,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: /img/20220304103525.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -910,7 +910,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: /img/default.png
+  banner_img: /img/20220304103525.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   subtitle:
