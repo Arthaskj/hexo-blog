@@ -1,6 +1,10 @@
 
 title: 开发浏览量统计接口-使用redis替换mongodb
 category: 技能
+tags: 
+  - redis
+  - mongodb
+  - 浏览量
 date: 2021-04-20
 index_img: /images/views_redis.assets/image-20210420143821708.png
 

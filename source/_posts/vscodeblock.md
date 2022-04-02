@@ -1,5 +1,8 @@
 title: VS Code 代码块
 category: 技能
+tags: 
+  - vscode
+  - snipple
 date: 2019-08-14
 index_img: /images/assets/vscode/snippet.png
 
